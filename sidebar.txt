@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ung:home|Door43 (ung)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ung|d43-ung repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ung/archive/master.zip|d43-ung.zip]]
+
+**Recent Changes**
+{{changes>ns = ung}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ung|Ethnologue data]]
+
